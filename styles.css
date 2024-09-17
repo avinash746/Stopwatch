@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #000;
+}
+
+header {
+  font-size: 40px;
+  text-align: center;
+  font-weight: 900;
+  color: #fff;
+  margin-top: 120px;
+}
+
+.stopwatch {
+  width: 90%;
+  max-width: 600px;
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/832/718/324/watch-desk-stopwatch-wallpaper-preview.jpg");
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  padding: 40px 0;
+  color: #fff;
+  border-radius: 10px;
+  margin: 10% auto;
+}
+
+button {
+  padding: 8px 12px;
+  margin: 40px 8px 0 8px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 4x;
+  font-weight: 900;
+  width: 100px;
+  border: none;
+  box-shadow: 10px 10px 10px #000;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 50px;
+}
